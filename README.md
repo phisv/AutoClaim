@@ -1,7 +1,7 @@
 # AutoClaim
-Scripts to automatically log in and navigate websites to claim rewards. Probably Python.
+Scripts to automatically log in and navigate websites to claim rewards. Python/Selenium.
 
 # WIP Goals
-1. Log in to website
-2. Navigation within site
+~~1. Navigate & log in to website~~
+2. Navigation within site to claim
 3. Automated run every n hours
